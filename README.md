@@ -70,3 +70,13 @@ Run the agent from the terminal:
 
 ```bash
 python main.py
+
+Example Commands:
+
+    Search: "What is the latest news on the release of Python 3.14?"
+
+    Scrape: "Read this page https://example.com and summarize the main points."
+
+    Complex: "Find the wikipedia page for 'Generative AI', read the History section, and tell me when it started."
+
+    Memory: "My name is Bhumi." -> (Restart app) -> "Do you remember my name?"
